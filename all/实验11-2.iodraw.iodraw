@@ -16,6 +16,9 @@
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-4" value="供应商" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="jCkFoyuacgyd4Ayx1G-t-5" target="jCkFoyuacgyd4Ayx1G-t-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-5" value="订单" style="whiteSpace=wrap;html=1;rotation=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="400" width="120" height="60" as="geometry" />
         </mxCell>
