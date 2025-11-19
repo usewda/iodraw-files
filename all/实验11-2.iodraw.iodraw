@@ -169,9 +169,9 @@
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-45" value="注册时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="678" y="790" width="70" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="jCkFoyuacgyd4Ayx1G-t-99" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jCkFoyuacgyd4Ayx1G-t-46">
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-99" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jCkFoyuacgyd4Ayx1G-t-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="743" y="570" as="targetPoint" />
+            <mxPoint x="743" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-46" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -213,10 +213,13 @@
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-100" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jCkFoyuacgyd4Ayx1G-t-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="743" y="555" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="743" y="540" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-57" value="邮箱地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="622" width="70" height="62" as="geometry" />
+          <mxGeometry x="870" y="632" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-58" value="供应商自我描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="598" y="790" width="70" height="62" as="geometry" />
