@@ -14,7 +14,7 @@
           <mxGeometry x="620" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-5" value="订单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-6" value="供应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="270" width="80" height="80" as="geometry" />
@@ -23,7 +23,10 @@
           <mxGeometry x="345" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-8" value="下单购买" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="140" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-9" value="购买" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="140" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
