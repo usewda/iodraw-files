@@ -13,6 +13,12 @@
         <mxCell id="4h1wax4cLEY2D-gU0RL3-54" value="球员" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-55" value="效力" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-56" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
