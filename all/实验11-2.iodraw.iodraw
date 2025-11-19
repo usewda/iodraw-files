@@ -25,6 +25,9 @@
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-5" value="订单" style="whiteSpace=wrap;html=1;rotation=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jCkFoyuacgyd4Ayx1G-t-6" target="jCkFoyuacgyd4Ayx1G-t-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-6" value="供应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="290" width="80" height="78" as="geometry" />
         </mxCell>
