@@ -119,7 +119,7 @@
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-42" value="供应商编号（PK）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="560" width="70" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="jCkFoyuacgyd4Ayx1G-t-43" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-43" value="供应商名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="770" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-44" value="注册名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -161,7 +161,7 @@
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-57" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="536" width="70" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="jCkFoyuacgyd4Ayx1G-t-58" value="注册名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-58" value="供应商自我描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="598" y="790" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-59" value="供应商名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
