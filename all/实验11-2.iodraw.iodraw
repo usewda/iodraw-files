@@ -90,19 +90,19 @@
           <mxGeometry x="30" y="58" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-33" value="电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="343" y="50" width="70" height="62" as="geometry" />
+          <mxGeometry x="334.5" y="40" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-34" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="223" y="-30" width="70" height="62" as="geometry" />
+          <mxGeometry x="214.5" y="-40" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-35" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-30" width="70" height="62" as="geometry" />
+          <mxGeometry x="141.5" y="-40" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-36" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="-12" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-37" value="地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="120" width="70" height="62" as="geometry" />
+          <mxGeometry x="344.5" y="110" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-38" value="订单号（PK）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="70" height="62" as="geometry" />
@@ -132,7 +132,7 @@
           <mxGeometry x="770" y="558" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-47" value="地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="293" y="-4" width="70" height="62" as="geometry" />
+          <mxGeometry x="284.5" y="-14" width="70" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
