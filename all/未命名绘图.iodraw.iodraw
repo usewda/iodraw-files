@@ -107,8 +107,14 @@
         <mxCell id="4h1wax4cLEY2D-gU0RL3-47" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="305" y="148" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4h1wax4cLEY2D-gU0RL3-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="495" y="148" width="50" height="30" as="geometry" />
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-49" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="148" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-50" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="188" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-51" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="188" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
