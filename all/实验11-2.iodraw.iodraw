@@ -101,8 +101,11 @@
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-36" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="10" width="70" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="jCkFoyuacgyd4Ayx1G-t-37" value="电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-37" value="地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="323" y="102" width="70" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-38" value="客户编号（PK）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="550" width="70" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
