@@ -9,6 +9,9 @@
             <mxPoint x="80" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4h1wax4cLEY2D-gU0RL3-7" target="4h1wax4cLEY2D-gU0RL3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4h1wax4cLEY2D-gU0RL3-7" value="生产厂商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="150" width="120" height="60" as="geometry" />
         </mxCell>
