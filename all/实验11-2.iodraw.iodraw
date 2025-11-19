@@ -14,7 +14,7 @@
           <mxGeometry x="630" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-5" value="订单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="305" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
