@@ -137,6 +137,9 @@
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-38" value="订单号（PK）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="13.5" y="580" width="70" height="62" as="geometry" />
         </mxCell>
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-86" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jCkFoyuacgyd4Ayx1G-t-39" target="jCkFoyuacgyd4Ayx1G-t-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-39" value="客户编号（PK）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="103.5" y="632" width="70" height="62" as="geometry" />
         </mxCell>
