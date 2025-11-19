@@ -22,6 +22,9 @@
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-7" value="购买" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-8" value="下单购买" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
