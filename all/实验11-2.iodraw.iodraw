@@ -13,6 +13,9 @@
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-2" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="212" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-79" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jCkFoyuacgyd4Ayx1G-t-3" target="jCkFoyuacgyd4Ayx1G-t-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-3" value="商品" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="603" y="212" width="120" height="60" as="geometry" />
         </mxCell>
