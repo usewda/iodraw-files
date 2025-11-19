@@ -131,6 +131,9 @@
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-37" value="电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344.5" y="110" width="70" height="62" as="geometry" />
         </mxCell>
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-85" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jCkFoyuacgyd4Ayx1G-t-38" target="jCkFoyuacgyd4Ayx1G-t-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-38" value="订单号（PK）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="13.5" y="580" width="70" height="62" as="geometry" />
         </mxCell>
@@ -186,7 +189,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-55" value="供应商编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="102" width="70" height="62" as="geometry" />
+          <mxGeometry x="790" y="90" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-56" value="商标" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="743" y="-40" width="70" height="62" as="geometry" />
