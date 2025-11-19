@@ -100,13 +100,23 @@
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-33" value="邮编" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334.5" y="40" width="70" height="62" as="geometry" />
         </mxCell>
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jCkFoyuacgyd4Ayx1G-t-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-34" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214.5" y="-40" width="70" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jCkFoyuacgyd4Ayx1G-t-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-35" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="141.5" y="-40" width="70" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="jCkFoyuacgyd4Ayx1G-t-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jCkFoyuacgyd4Ayx1G-t-36" target="jCkFoyuacgyd4Ayx1G-t-2">
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jCkFoyuacgyd4Ayx1G-t-36" target="jCkFoyuacgyd4Ayx1G-t-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-36" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
