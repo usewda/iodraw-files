@@ -126,7 +126,7 @@
           <mxGeometry x="440" y="632" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-45" value="供应商名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="723" y="752" width="70" height="62" as="geometry" />
+          <mxGeometry x="710" y="752" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-46" value="描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="544" width="70" height="62" as="geometry" />
@@ -162,10 +162,10 @@
           <mxGeometry x="303" y="800" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-58" value="注册名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="643" y="748" width="70" height="62" as="geometry" />
+          <mxGeometry x="628" y="770" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-59" value="供应商名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="770" width="70" height="62" as="geometry" />
+          <mxGeometry x="760" y="690" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-60" value="描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="528" y="810" width="70" height="62" as="geometry" />
