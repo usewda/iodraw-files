@@ -38,7 +38,7 @@
             <mxPoint x="520" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4h1wax4cLEY2D-gU0RL3-22" value="生产厂商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-22" value="产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4h1wax4cLEY2D-gU0RL3-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4h1wax4cLEY2D-gU0RL3-26" target="4h1wax4cLEY2D-gU0RL3-22">
