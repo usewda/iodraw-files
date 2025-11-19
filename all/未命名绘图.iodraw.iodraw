@@ -7,6 +7,9 @@
         <mxCell id="4h1wax4cLEY2D-gU0RL3-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="4h1wax4cLEY2D-gU0RL3-52" target="4h1wax4cLEY2D-gU0RL3-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4h1wax4cLEY2D-gU0RL3-52" target="4h1wax4cLEY2D-gU0RL3-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4h1wax4cLEY2D-gU0RL3-52" value="赞助商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -19,8 +22,14 @@
         <mxCell id="4h1wax4cLEY2D-gU0RL3-55" value="效力" style="rhombus;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="240" y="270.95" width="70" height="109.05" as="geometry" />
         </mxCell>
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4h1wax4cLEY2D-gU0RL3-56" target="4h1wax4cLEY2D-gU0RL3-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4h1wax4cLEY2D-gU0RL3-56" value="赞助" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4h1wax4cLEY2D-gU0RL3-57" target="4h1wax4cLEY2D-gU0RL3-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4h1wax4cLEY2D-gU0RL3-57" value="球队" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="130" width="120" height="60" as="geometry" />
