@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4h1wax4cLEY2D-gU0RL3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4h1wax4cLEY2D-gU0RL3-7" target="4h1wax4cLEY2D-gU0RL3-10">
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="4h1wax4cLEY2D-gU0RL3-7" target="4h1wax4cLEY2D-gU0RL3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4h1wax4cLEY2D-gU0RL3-7" value="生产厂商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
