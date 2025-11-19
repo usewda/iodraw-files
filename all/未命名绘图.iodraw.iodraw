@@ -91,6 +91,12 @@
         <mxCell id="4h1wax4cLEY2D-gU0RL3-87" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="178" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-88" value="主队" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="108" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-89" value="客队" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="178" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
