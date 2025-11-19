@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jCkFoyuacgyd4Ayx1G-t-2" target="jCkFoyuacgyd4Ayx1G-t-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-2" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -20,9 +23,9 @@
           <mxGeometry x="500" y="270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-7" value="购买商品" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="345" y="270" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jCkFoyuacgyd4Ayx1G-t-8" value="下单购买" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-8" value="下单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-9" value="购买" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
