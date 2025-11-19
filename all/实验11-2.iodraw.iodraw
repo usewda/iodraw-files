@@ -105,16 +105,16 @@
           <mxGeometry x="344.5" y="110" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-38" value="订单号（PK）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="580" width="70" height="62" as="geometry" />
+          <mxGeometry x="13.5" y="580" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-39" value="客户编号（PK）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="632" width="70" height="62" as="geometry" />
+          <mxGeometry x="103.5" y="632" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-40" value="订货日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="243" y="632" width="70" height="62" as="geometry" />
+          <mxGeometry x="216.5" y="632" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-41" value="总金额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="323" y="570" width="70" height="62" as="geometry" />
+          <mxGeometry x="296.5" y="570" width="70" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-42" value="供应商编号（PK）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="488" y="570" width="70" height="62" as="geometry" />
