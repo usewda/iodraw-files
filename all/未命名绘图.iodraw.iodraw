@@ -28,6 +28,12 @@
         <mxCell id="4h1wax4cLEY2D-gU0RL3-59" value="主裁判" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="130" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-60" value="聘任" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4h1wax4cLEY2D-gU0RL3-61" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
