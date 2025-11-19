@@ -11,12 +11,12 @@
           <mxGeometry x="45" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-3" value="商品" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-4" value="供应商" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCkFoyuacgyd4Ayx1G-t-5" value="订单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCkFoyuacgyd4Ayx1G-t-5" value="订单" style="whiteSpace=wrap;html=1;rotation=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCkFoyuacgyd4Ayx1G-t-6" value="供应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
